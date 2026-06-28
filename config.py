@@ -1,4 +1,4 @@
-# Authored By Certified Coders © 2025
+# Authhored By Certified Coders
 import re
 from os import getenv
 from dotenv import load_dotenv
