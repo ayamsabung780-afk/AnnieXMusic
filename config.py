@@ -14,9 +14,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 OWNER_ID = int(getenv("OWNER_ID", 7044783841))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "CertifiedCoder")
-BOT_USERNAME = getenv("BOT_USERNAME", "AnnieXRobot")
-BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴɴɪᴇ ✘ 𝙼ᴜsɪᴄ˼ ♪")
-ASSUSERNAME = getenv("ASSUSERNAME", "musicxannie")
+BOT_USERNAME = getenv("BOT_USERNAME", "𝙂𝙋𝙈𝙎XRobot")
+BOT_NAME = getenv("BOT_NAME", "˹𝙂𝙋𝙈𝙎 ✘ 𝙼ᴜsɪᴄ˼ ♪")
+ASSUSERNAME = getenv("ASSUSERNAME", "musicx𝙂𝙋𝙈𝙎")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
 MONGO_DB_URI = getenv("MONGO_DB_URI")
@@ -47,8 +47,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN")  # needed if repo is private
 
 # ── Support links ──────────────────────────────────────────────────────────────
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CertifiedNetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CertifiedDiscussion")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SisaTenaga")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://gpms.xo.je/")
 
 # ── Assistant auto-leave ───────────────────────────────────────────────────────
 AUTO_LEAVING_ASSISTANT = False
@@ -78,7 +78,7 @@ STICKERS = [
     "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
     "CAACAgUAAx0Cd6nKUAACATJl_rsEJOsaaPSYGhU7bo7iEwL8AAPMDgACu2PYV8Vb8aT4_HUPHgQ",
 ]
-HELP_IMG_URL = "https://files.catbox.moe/yg2vky.jpg"
+HELP_IMG_URL = "https://freeimage.host/i/df9176f0-c957-4407-a976-eccf7cc79046.CRu45OJ"
 PING_VID_URL = "https://files.catbox.moe/3ivvgo.mp4"
 PLAYLIST_IMG_URL = "https://files.catbox.moe/yhaja5.jpg"
 STATS_VID_URL = "https://telegra.ph/file/e2ab6106ace2e95862372.mp4"
